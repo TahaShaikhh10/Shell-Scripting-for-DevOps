@@ -1,0 +1,4 @@
+## For Emails
+
+sudo apt update && sudo apt install mailutils -y
+
